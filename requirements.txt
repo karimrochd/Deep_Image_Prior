@@ -1,6 +1,0 @@
-# Minimal requirements. PyTorch must be installed separately (cuda or cpu).
-numpy>=1.21
-Pillow>=9.0
-tqdm>=4.66
-matplotlib>=3.6
-scipy>=1.9
